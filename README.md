@@ -1,4 +1,3 @@
-# Databricks-Capstone-Project
 # 🚀 Databricks Capstone Project
 
 This repository showcases a scalable Big Data pipeline built using **Apache Spark** on **Azure Databricks**, performing end-to-end **data ingestion**, **transformation**, and **analysis** on tweet data enriched with malicious actor insights.
